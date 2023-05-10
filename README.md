@@ -1,5 +1,12 @@
 # LitMinionsAPI
 
+![image](https://github.com/WaterArchery/LitMinionsAPI/assets/64959220/c8b97da0-c4f2-4103-beb6-af2d8c46873c)
+
+
+Latest version: ![Release](https://jitpack.io/v/WaterArchery/LitMinionsAPI.svg)
+
+LitMinionsAPI is WIP. Please contact with me about your suggestions and bug reports.
+
 ## Integrating
 
   Integrating is very easy. Just add LitMinions to local dependency or import it with Maven. After that you should softdepend LitMinions to your in your plugin.yml. It should be like this ```softdepend: [ LitMinions ]```
