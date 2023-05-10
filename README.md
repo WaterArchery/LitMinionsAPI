@@ -1,6 +1,6 @@
 # LitMinionsAPI
 
-![image](https://github.com/WaterArchery/LitMinionsAPI/assets/64959220/c8b97da0-c4f2-4103-beb6-af2d8c46873c)
+[![spigot](https://github.com/WaterArchery/LitMinionsAPI/assets/64959220/c8b97da0-c4f2-4103-beb6-af2d8c46873c)](https://www.spigotmc.org/resources/%E2%AD%90-litminions-%E2%AD%90-10-minions-%E2%9C%85-migrate-data-command-levels-%E2%9C%85-minion-inventories-1-8-1-19.108876/)
 
 
 Latest version: ![Release](https://jitpack.io/v/WaterArchery/LitMinionsAPI.svg)
