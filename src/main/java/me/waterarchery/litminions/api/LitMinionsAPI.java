@@ -1,12 +1,14 @@
 package me.waterarchery.litminions.api;
 
 import me.waterarchery.litminions.cache.minions.Minion;
+import org.bukkit.Location;
 import org.bukkit.OfflinePlayer;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
 import javax.annotation.Nullable;
 import java.util.ArrayList;
+import java.util.UUID;
 
 public class LitMinionsAPI {
 
