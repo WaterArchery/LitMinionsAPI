@@ -47,4 +47,20 @@ public class LitMinionsAPI {
         return -1;
     }
 
+    public static void removeMinion(Minion minion) {
+        
+    }
+
+    public static ArrayList<Minion> getAllMinions() {
+        return new ArrayList<Minion>();
+    }
+
+    public static boolean isSafeLocation(Location loc) {
+        return false;
+    }
+
+    public static Minion createMinion(String type, UUID owner, Location location, int level, int hunger) {
+        return null;
+    }
+    
 }
