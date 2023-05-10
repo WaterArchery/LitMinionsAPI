@@ -20,4 +20,19 @@
 	</dependency>
   
   
-## 
+## Usage
+
+  After migrating you can access API methods with ```LitMinionsAPI.helloMethod();```
+  
+  Examples for getting player limits:
+  
+  ```
+  int maxMinions = LitMinionsAPI.getMaxPlaceableMinion(offlinePlayer);
+  returns amount of the placeable minions by player.
+  
+  int maxMinionsPerType = LitMinionsAPI.getMaxPerType(offlinePlayer, "miner");
+  returns amount of the placeable minions by player but it checks for the maximum type paramater.
+  
+  int maxMinionsPerIsland = LitMinionsAPI.getMaxPerIsland(offlinePlayer);
+  returns amount of the placeable minions by player but it checks for the maximum per island paramater
+  ```
