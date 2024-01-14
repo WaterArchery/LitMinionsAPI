@@ -24,6 +24,7 @@ LitMinionsAPI is WIP. Please contact with me about your suggestions and bug repo
 	    <groupId>com.github.WaterArchery</groupId>
 	    <artifactId>LitMinionsAPI</artifactId>
 	    <version>2.06</version>
+	    <scope>provided</scope>
 	</dependency>
   
   
