@@ -429,4 +429,6 @@ public class Minion {
     public void cancelTalkTask() {
     }
 
+    public boolean hasChestLinked() { return true; }
+
 }
