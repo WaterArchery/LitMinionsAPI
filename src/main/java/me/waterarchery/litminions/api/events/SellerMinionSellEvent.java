@@ -1,6 +1,6 @@
 package me.waterarchery.litminions.api.events;
 
-import me.waterarchery.litminions.cache.minions.types.SellerMinion;
+import me.waterarchery.litminions.models.minions.types.SellerMinion;
 import org.bukkit.event.Event;
 import org.bukkit.event.HandlerList;
 

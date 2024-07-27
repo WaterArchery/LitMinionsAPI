@@ -1,6 +1,6 @@
 package me.waterarchery.litminions.api.events;
 
-import me.waterarchery.litminions.cache.minions.types.SlayerMinion;
+import me.waterarchery.litminions.models.minions.types.SlayerMinion;
 import org.bukkit.entity.Entity;
 import org.bukkit.event.Cancellable;
 import org.bukkit.event.Event;

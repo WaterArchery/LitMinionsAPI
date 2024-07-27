@@ -1,6 +1,6 @@
-package me.waterarchery.litminions.cache.minions.types;
+package me.waterarchery.litminions.models.minions.types;
 
-import me.waterarchery.litminions.cache.minions.Minion;
+import me.waterarchery.litminions.models.minions.Minion;
 import me.waterarchery.litminions.utils.MinionFace;
 
 import java.util.UUID;

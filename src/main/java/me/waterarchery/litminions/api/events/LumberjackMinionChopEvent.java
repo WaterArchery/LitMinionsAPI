@@ -1,6 +1,6 @@
 package me.waterarchery.litminions.api.events;
 
-import me.waterarchery.litminions.cache.minions.types.LumberjackMinion;
+import me.waterarchery.litminions.models.minions.types.LumberjackMinion;
 import org.bukkit.block.Block;
 import org.bukkit.event.Cancellable;
 import org.bukkit.event.Event;
