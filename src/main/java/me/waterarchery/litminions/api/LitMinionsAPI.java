@@ -1,5 +1,6 @@
 package me.waterarchery.litminions.api;
 
+import me.waterarchery.litminions.handlers.MinionHandler;
 import me.waterarchery.litminions.models.minions.Minion;
 import org.bukkit.Location;
 import org.bukkit.OfflinePlayer;
@@ -64,5 +65,7 @@ public class LitMinionsAPI {
     public static Minion createMinion(String type, UUID owner, Location location, int level, int hunger) {
         return null;
     }
+
+    public static MinionHandler getMinionHandler() { return MinionHandler.getInstance(); }
     
 }
