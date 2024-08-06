@@ -10,6 +10,7 @@ import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.util.BoundingBox;
 
+import javax.annotation.Nullable;
 import java.util.*;
 
 public class Minion {
@@ -167,6 +168,10 @@ public class Minion {
 
     public void onStartTask() {
 
+    }
+
+    public ItemStack toItemStack(@Nullable Player player) {
+        return null;
     }
 
     public void doAction() {

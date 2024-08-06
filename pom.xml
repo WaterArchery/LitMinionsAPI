@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>LitMinionsAPI</artifactId>
-    <version>3.1.4a</version>
+    <version>3.1.6</version>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -25,7 +25,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.19.4-R0.1-SNAPSHOT</version>
+            <version>1.21-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
