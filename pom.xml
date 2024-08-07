@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>LitMinionsAPI</artifactId>
-    <version>3.1.6a</version>
+    <version>3.1.7</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
